@@ -1,3 +1,7 @@
 third - my branch
 fourth - my branch
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 추가
+>>>>>>> 새로운 기능 1 추가
